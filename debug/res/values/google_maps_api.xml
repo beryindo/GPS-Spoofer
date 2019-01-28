@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=22:6E:66:FC:71:11:3B:A3:6F:C5:BB:83:F3:00:3A:4F:CD:93:93:E6%3Bcom.example.neilg.gpsspoofer
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    22:6E:66:FC:71:11:3B:A3:6F:C5:BB:83:F3:00:3A:4F:CD:93:93:E6
+
+    SHA-1 certificate fingerprint:
+    22:6E:66:FC:71:11:3B:A3:6F:C5:BB:83:F3:00:3A:4F:CD:93:93:E6
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCDtgQHut5VftUIdY9_153HpQ5jQkHMZ0Y</string>
+</resources>
